@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalProgressbarWithProgress">
+
+        <attr name="progress_unreach_color" format="color"></attr>
+        <attr name="progress_unreach_height" format="dimension"></attr>
+        <attr name="progress_reach_color" format="color"></attr>
+        <attr name="progress_reach_height" format="dimension"></attr>
+        <attr name="progress_text_color" format="color"></attr>
+        <attr name="progress_text_size" format="dimension"></attr>
+        <attr name="progress_text_offset" format="dimension"></attr>
+
+    </declare-styleable>
+
+    <declare-styleable name="RoundProgressBarWithProgress">
+        <attr name="radius" format="dimension"></attr>
+    </declare-styleable>
+</resources>
